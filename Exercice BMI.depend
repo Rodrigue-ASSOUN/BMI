@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1713339485 source:f:\cours c\exercice bmi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
